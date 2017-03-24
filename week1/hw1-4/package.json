@@ -1,0 +1,19 @@
+{
+  "name": "hw1-4",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "express": "~4.15.2",
+    "mongodb": "~2.2.25"
+  },
+  "devDependencies": {
+    "nodemon": "1.11.0"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "me",
+  "license": "MIT"
+}
